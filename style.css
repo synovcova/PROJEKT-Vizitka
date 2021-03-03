@@ -83,10 +83,10 @@ p{
     margin-top: 5px;
 }
 
-.twitter a:hover{
+.twitter:hover{
     background-color: #0b7bc1;
 }
 
-.facebook a:hover{
+.facebook:hover{
     background-color: #2b406e;
 }
