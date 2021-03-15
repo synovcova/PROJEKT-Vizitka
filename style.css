@@ -56,9 +56,11 @@ p{
     border:3px solid white;
     right: -75px;
     top: -75px;
+    box-shadow: 4px 4px 7px rgba(117, 116, 116, 0.5);
 }
 
-.twitter{
+.twitter,
+.facebook{
     display: inline-block;
     width: 100%;
     border-radius: 5px;
@@ -68,19 +70,13 @@ p{
     text-decoration: none;
     color: white;
     padding: 10px;
+    font-weight:bold;
 }
 
 .facebook{
-    display: inline-block;
-    width: 100%;
-    border-radius: 5px;
     background-color:   #3b5998;
-    text-align: center;
-    text-transform: uppercase;
-    text-decoration: none;
-    color: white;
-    padding: 10px;
     margin-top: 5px;
+   
 }
 
 .twitter:hover{
